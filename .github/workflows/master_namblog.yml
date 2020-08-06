@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'namblog'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_64e7d82808e44175b86338851f696365 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_15bbfe54aa374a6192dbca618686dede }}
