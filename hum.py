@@ -1,9 +1,0 @@
-Phạm Minh Hoàng Nam
-
-1851120028
-
-0855457078
-
-CN18A
-
-CNTT
